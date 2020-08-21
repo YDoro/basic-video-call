@@ -6,7 +6,7 @@ this project uses **NodeJS**,**EpressJS**,**Socket.IO** and **PeerJS** to create
 
 - [ ] Separate Backend of Frontend
 
-- [ ] Change JS to TS
+- [x] Change JS to TS
 
 - [ ] Use VueJS or ReactJS on frontend
 
